@@ -9,6 +9,17 @@ var students = [
             day : 9
         },
         Career : 'IDYGS'
+    },
+    {
+        lname : 'Carrazco',
+        name : 'Nahomi',
+        age : 19,
+        birthday : {
+            year : 1999,
+            month : 'September',
+            day : 9
+        },
+        Career : 'IDYGS'
     }
 ];
 var table  = document.getElementsByTagName('table')[0];
